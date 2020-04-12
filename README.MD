@@ -2,10 +2,8 @@ usly # Demo Git Repository
 
 This is the first file in this repo
 
-## Ipsum Below
+## Website content
 
-Learn the key concepts and basic workflow for Git and GitHub with this easy to follow, top rated, bootcamp-style course!
+1. index.html
 
-### Ipsum no3
-git commit -am "add file to stagging and simmultanouesly commit"
 
